@@ -11,7 +11,7 @@ O projeto busca demonstrar como técnicas de previsão podem apoiar decisões es
 
 Link da Apresentação: https://youtu.be/LjIbjDi9-Uc
 
-Link da analise exploratoria: https://colab.research.google.com/drive/1rp2MGC5EWy3G63mW-4O8elCbBjWb8DLk?usp=sharing
+Link da analise exploratoria no Colab: https://colab.research.google.com/drive/1rp2MGC5EWy3G63mW-4O8elCbBjWb8DLk?usp=sharing
 
 Link do projeto no Colab : https://colab.research.google.com/drive/15mhFKwuJvNCWMlf0urRtAG-JswAoFPFD?usp=sharing
 
