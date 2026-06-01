@@ -10,6 +10,7 @@ Objetivos específicos:
 O projeto busca demonstrar como técnicas de previsão podem apoiar decisões estratégicas no varejo online.
 
 Link da Apresentação: https://youtu.be/LjIbjDi9-Uc
+
 Link do projeto no Colab : https://colab.research.google.com/drive/15mhFKwuJvNCWMlf0urRtAG-JswAoFPFD?usp=sharing
 
 Por: Vitor Assunção Rocha RA: 10440984
